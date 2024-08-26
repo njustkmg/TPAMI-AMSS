@@ -1,10 +1,11 @@
 # Learning to Rebalance Multi-Modal Optimization by Adaptively Masking Subnetworks
 ![image](https://github.com/user-attachments/assets/4eb76b38-0090-4e25-87b2-4ce82ff09e11)
 # Data Preparation
-
 You can download the corresponding raw data from the link below and prepare the data according the instructions of the cited paper.
 
 Original Dataset : [CREMA-D](https://github.com/CheyneyComputerScience/CREMA-D),[Kinetics-Sounds](https://github.com/cvdfoundation/kinetics-dataset),[Sarcasm](https://github.com/feiLinX/Multi-modal-Sarcasm-Detection),[Twitter15](https://github.com/jefferyYu/TomBERT),[NVGresutre](https://research.nvidia.com/publication/2016-06_online-detection-and-classification-dynamic-hand-gestures-recurrent-3d)
+# Enviroment
+Please refer to env.yml file
 # Pre-processing
 The data processing details are in [OGE-GE](https://github.com/GeWu-Lab/OGM-GE_CVPR2022/tree/main) 
 # Training
