@@ -1,6 +1,5 @@
-# AMSS/AMSS+
-Title: Learning to Rebalance Multi-Modal Optimization by Adaptively Masking Subnetworks
-
+# Learning to Rebalance Multi-Modal Optimization by Adaptively Masking Subnetworks
+![image](https://github.com/user-attachments/assets/4eb76b38-0090-4e25-87b2-4ce82ff09e11)
 # Data Preparation
 
 You can download the corresponding raw data from the link below and prepare the data according the instructions of the cited paper.
